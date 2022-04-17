@@ -7,3 +7,37 @@
 /__pycache__
 /assignment1.ipynb
 /stats.ipynb
+/utils/utils.py
+data
+
+# Project 1
+__pycache__
+.ipynb_checkpoints
+/Project1/data
+/Project1/Project1_Report.md
+/Project1/Project1_Report.pdf
+/Project1/outputs
+
+# Project 2
+__pycache__
+.ipynb_checkpoints
+/Project2/logins.py
+/Project2/Project2_REPORT.md
+/Project2/Project2_REPORT.pdf
+/Project2/outputs
+
+# Project 3
+__pycache__
+.ipynb_checkpoints
+/Project3/data
+/Project3/logins.py
+/Project3/outputs
+/Project3/Project3_REPORT.md
+
+# Project 4
+__pycache__
+.ipynb_checkpoints
+/Project4/data
+/Project4/logins.py
+/Project4/outputs
+/Project4/Project4_REPORT.md
